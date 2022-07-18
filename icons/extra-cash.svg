@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>extra-cash</title>
+    <g id="extra-cash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" stroke="#78BE20" stroke-width="1.5" points="38.868 6.96150204 8.083 6.96150204 13.1205 2 33.8816667 2.00518776"></polygon>
+        <path d="M7.69766667,27.4032653 C12.2715,26.656898 16.9088333,26.9467429 18.3698333,27.3771592 L27.5871667,30.0930327 C30.216,30.8673469 29.0518333,34.8741347 26.4238333,34.099151 L16.74,31.2457184" id="Shape" stroke="#78BE20" stroke-width="1.5"></path>
+        <path d="M28.9035,31.2601102 L36.0851667,27.9729143 C38.691,26.7802327 40.3306667,30.6146531 37.8635,31.7437429 L28.1113333,36.2073878 C26.4445,36.9703224 19.8233333,37.5242408 12.4741667,34.225498 C11.2113333,33.6588612 9.06633333,34.3948531 7.69766667,34.7474531" id="Shape" stroke="#78BE20" stroke-width="1.5"></path>
+        <polygon id="Rectangle-path" stroke="#78BE20" stroke-width="1.5" points="1 25.4580245 7.66666667 25.4580245 7.66666667 37.1723102 1 37.1723102"></polygon>
+        <polyline id="Shape" stroke="#78BE20" stroke-width="1.5" points="11.447 10.3425796 8.083 13.6557143 38.868 13.6557143 35.5346667 10.3425796"></polyline>
+        <polyline id="Shape" stroke="#78BE20" stroke-width="1.5" points="11.447 17.0367918 8.083 20.3500939 38.868 20.3500939 35.5346667 17.0367918"></polyline>
+    </g>
+</svg>

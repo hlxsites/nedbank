@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>reduce-fees</title>
+    <g id="reduce-fees" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M38.3722449,4.68244898 C38.3722449,2.54987755 36.6432653,0.82122449 34.5106939,0.82122449 L4.68277551,0.82122449 C2.55004082,0.82122449 0.82122449,2.55004082 0.82122449,4.68244898 L0.82122449,34.5110204 C0.82122449,36.6435918 2.55020408,38.3722449 4.68277551,38.3722449 L34.5105306,38.3722449 C36.6432653,38.3722449 38.3720816,36.6434286 38.3720816,34.5110204 L38.3720816,4.68244898 L38.3722449,4.68244898 Z" id="Shape" stroke="#78BE20" stroke-width="1.5"></path>
+        <circle id="Oval" stroke="#78BE20" stroke-width="1.5" cx="10.4151837" cy="20.7676735" r="2.1115102"></circle>
+        <circle id="Oval" stroke="#78BE20" stroke-width="1.5" cx="19.6545306" cy="28.5103673" r="2.1115102"></circle>
+        <circle id="Oval" stroke="#78BE20" stroke-width="1.5" cx="28.8940408" cy="13.0091429" r="2.1115102"></circle>
+        <line x1="30.5069388" y1="14.3635918" x2="38.3722449" y2="21.0292245" id="Shape" stroke="#78BE20" stroke-width="1.5"></line>
+        <line x1="20.7338776" y1="26.6995918" x2="27.816" y2="14.8176327" id="Shape" stroke="#78BE20" stroke-width="1.5"></line>
+        <line x1="12.0308571" y1="22.1216327" x2="18.0406531" y2="27.1578776" id="Shape" stroke="#78BE20" stroke-width="1.5"></line>
+        <line x1="0.82122449" y1="28.7766531" x2="8.79722449" y2="22.1216327" id="Shape" stroke="#78BE20" stroke-width="1.5"></line>
+        <polygon id="Rectangle-path" points="8.80927984e-15 8.8817842e-14 39.1836735 8.8817842e-14 39.1836735 39.1836735 8.80927984e-15 39.1836735"></polygon>
+    </g>
+</svg>

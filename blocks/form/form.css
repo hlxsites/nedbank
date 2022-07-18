@@ -1,0 +1,139 @@
+main .form {
+  background-color: white;
+  padding: var(--spacing-m);
+  box-shadow: 0 1px 6px rgb(34 34 34 / 10%);
+}
+
+main .form h2 {
+  padding: var(--spacing-m) 0;
+  font-size: var(--type-heading-l-lh);
+  font-weight: normal;
+}
+
+main .form h3 {
+  padding-top: var(--spacing-m);
+  font-size: var(--type-heading-m-size);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+main .form input,
+main .form textarea,
+main .form select {
+  height: 56px;
+  border: 2px solid #bbb;
+  padding: .375rem .75rem;
+  border-radius: 0;
+  width: 100%;
+  max-width: 50rem;
+  box-sizing: border-box;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* main .form select option:disabled {
+  color: #bbb;
+} */
+
+main .form textarea {
+  min-height: 100px;
+}
+
+main .form input:hover,
+main .form select:hover {
+  border-color: rgb(90 92 96);
+}
+
+main .form label {
+  width: 100%;
+  display: block;
+  font-size: 14px;
+  line-height: var(--type-body-s-lh);
+  padding-bottom: var(--spacing-xs);
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  font-family: "Open Sans Semibold", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+main .form .note {
+  color: #7b7a7a;
+  font-family: "Open Sans Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 8px;
+}
+
+
+/* main .form label.required::after {
+  content: "*";
+  color: red;
+  padding-left: 5px;
+} */
+
+main .form .field-wrapper {
+  margin-bottom: 24px;
+  width: 390px;
+}
+
+main .form .form-checkbox-wrapper {
+  display: flex;
+  margin: var(--spacing-s) 0;
+}
+
+main .form .form-checkbox-wrapper input[type='checkbox'] {
+  display: none;
+}
+
+main .form .form-checkbox-wrapper input[type='checkbox'] + label::before {
+  float: left;
+  margin-top: 5px;
+  margin-right: 5px;
+  height: 30px;
+  width: 30px;
+  content: ' ';
+  background: url('./checkbox.svg');
+  background-size: contain;
+}
+
+main .form .form-checkbox-wrapper input[type='checkbox']:checked +label::before {
+  background: url('./checkbox-checked.svg');
+  background-size: contain;
+  content: ' ';
+}
+
+main .form .form-checkbox-wrapper label {
+  font-size: var(--type-body-m-size);
+  font-weight: normal;
+  text-transform: none;
+  display: block;
+}
+
+main .form .button {
+  height: 56px;
+  width: 100%;
+  max-width: 390px;
+  cursor: pointer;
+  background: #17252e;
+  color: white;
+  border-radius: 6px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 300;
+  padding: 6px 16px;
+  border: none;
+  margin: 10px 0;
+  font-family: "Open Sans Semibold", 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+main .form .form-submit-wrapper {
+  display: block;
+}
